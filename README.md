@@ -33,7 +33,8 @@ These files contains the raw data of the matrices of mx, my, and me.
 
 The raw data are transformed to Python numpy arrays by the following function.
 
-'''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 import numpy as np
 
 import csv
@@ -68,4 +69,5 @@ my=my.transpose()
 
 me=me.transpose()
 
-'''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
