@@ -29,7 +29,7 @@ This repository contains programs used in the study "Symbolic-numeric and classi
 
 (3) save_mx.txt, save_my.txt, save_me.txt
 
-These files contains the raw data of the matrices of mx, my, and me.
+These three files contain the raw data of the matrices of mx, my, and me.
 
 The raw data are transformed to Python numpy arrays by the following function.
 
